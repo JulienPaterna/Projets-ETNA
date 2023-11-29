@@ -1,0 +1,19 @@
+{
+  "name": "the_hyrule_castle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node ./base_game/src/hyrule_castle.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.9.0"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
